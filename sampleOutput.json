@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "Australia vs West Indies, 1st Test, West Indies tour of Australia, 2022 - Cricbuzz",
+            "description": "Follow Australia vs West Indies, 1st Test, Nov 30, West Indies tour of Australia, 2022 with live Cricket score, ball by ball commentary updates on Cricbuzz",
+            "url": "https://www.cricbuzz.com/live-cricket-scores/48114/aus-vs-wi-1st-test-west-indies-tour-of-australia-2022",
+            "urlToImage": null,
+            "publishedAt": "2022-12-04T03:39:04Z",
+            "content": "Pat Cummins: It's not too bad, I was about to bowl, but it didn't too close. It feels fine. Keeping the fingers crossed for the next couple of days. On Aussie wickets you are going to get big partner… [+5152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Zee Media Bureau",
+            "title": "LIVE Updates | IND VS BAN, 1st ODI Cricket Match Live Score: Will rain play spoilsport at Dhaka? - Zee News",
+            "description": "LIVE Updates | IND VS BAN, 1st ODI Cricket Match Live Score: Will rain play spoilsport at Dhaka?",
+            "url": "https://zeenews.india.com/cricket/live-updates/live-cricket-score-ind-vs-ban-1st-odi-cricket-match-2022-today-india-vs-bangladesh-cricket-live-score-and-updates-mirpur-dhaka-rohit-sharma-litton-das-2543366",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/12/03/1124948-untitled-design-2022-12-03t133330.114.png",
+            "publishedAt": "2022-12-03T17:32:27Z",
+            "content": null
+        }
+    ]
+}
